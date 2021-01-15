@@ -8,7 +8,6 @@ C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcor
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microservicio2.pdb
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microservicio2.Views.dll
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microservicio2.Views.pdb
-C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcoreapp3.1\Microservicio2.csprojAssemblyReference.cache
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcoreapp3.1\Microservicio2.AssemblyInfoInputs.cache
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcoreapp3.1\Microservicio2.AssemblyInfo.cs
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcoreapp3.1\Microservicio2.csproj.CoreCompileInputs.cache
@@ -164,3 +163,4 @@ C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcor
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Web.config
