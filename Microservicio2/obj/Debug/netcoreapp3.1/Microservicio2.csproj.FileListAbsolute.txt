@@ -180,3 +180,4 @@ C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcor
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcoreapp3.1\Razor\Views\Persona\CreatePersona.cshtml.g.cs
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
