@@ -173,3 +173,10 @@ C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcor
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcoreapp3.1\Microservicio2.csprojAssemblyReference.cache
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcoreapp3.1\Razor\Views\Persona\Index.cshtml.g.cs
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcoreapp3.1\Razor\Views\Persona\CreatePersona.cshtml.g.cs
