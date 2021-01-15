@@ -35,3 +35,16 @@ C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcor
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcoreapp3.1\Microservicio2.pdb
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcoreapp3.1\Microservicio2.genruntimeconfig.cache
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\obj\Debug\netcoreapp3.1\Microservicio2.csproj.CopyComplete
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\Microservicio2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
