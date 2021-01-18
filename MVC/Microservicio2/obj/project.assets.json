@@ -8313,11 +8313,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAPAXSIS-36\\source\\repos\\Microservicio2\\Microservicio2\\Microservicio2.csproj",
+      "projectUniqueName": "C:\\Users\\LAPAXSIS-36\\source\\repos\\Microservicio2\\MVC\\Microservicio2\\Microservicio2.csproj",
       "projectName": "Microservicio2",
-      "projectPath": "C:\\Users\\LAPAXSIS-36\\source\\repos\\Microservicio2\\Microservicio2\\Microservicio2.csproj",
+      "projectPath": "C:\\Users\\LAPAXSIS-36\\source\\repos\\Microservicio2\\MVC\\Microservicio2\\Microservicio2.csproj",
       "packagesPath": "C:\\Users\\LAPAXSIS-36\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAPAXSIS-36\\source\\repos\\Microservicio2\\Microservicio2\\obj\\",
+      "outputPath": "C:\\Users\\LAPAXSIS-36\\source\\repos\\Microservicio2\\MVC\\Microservicio2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

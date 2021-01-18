@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JYuo10T4KbGB2+DRxB3x/RagWHiP/0ezCnih/aOv2ndLbiwPiKDaYPSkBOFXE9MLud950jPGvpt/1TcgefYvig==",
+  "dgSpecHash": "LuZbw8wRVeYUaWlgPPk+k/+kU1qjZHxARJlIf7x2elp7unmDSbfIApeikpnPUW0bFECx406jREuz2lWPstBzRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LAPAXSIS-36\\source\\repos\\Microservicio2\\Microservicio2\\Microservicio2.csproj",
+  "projectFilePath": "C:\\Users\\LAPAXSIS-36\\source\\repos\\Microservicio2\\MVC\\Microservicio2\\Microservicio2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LAPAXSIS-36\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
     "C:\\Users\\LAPAXSIS-36\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
