@@ -369,3 +369,9 @@ C:\Users\LAPAXSIS-36\source\repos\Microservicio2\MVC\Microservicio2\obj\Debug\ne
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\MVC\Microservicio2\obj\Debug\netcoreapp3.1\Razor\Views\Parentesco\CreateParentesco.cshtml.g.cs
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\MVC\Microservicio2\obj\Debug\netcoreapp3.1\Razor\Views\Parentesco\DeleteParentesco.cshtml.g.cs
 C:\Users\LAPAXSIS-36\source\repos\Microservicio2\MVC\Microservicio2\obj\Debug\netcoreapp3.1\Razor\Views\Parentesco\DetailParentesco.cshtml.g.cs
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\MVC\Microservicio2\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\MVC\Microservicio2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\MVC\Microservicio2\bin\Debug\netcoreapp3.1\System.Net.Http.Extensions.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\MVC\Microservicio2\bin\Debug\netcoreapp3.1\System.Net.Http.Primitives.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\MVC\Microservicio2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\LAPAXSIS-36\source\repos\Microservicio2\MVC\Microservicio2\obj\Debug\netcoreapp3.1\Microservicio2.csprojAssemblyReference.cache
