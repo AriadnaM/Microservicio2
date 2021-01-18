@@ -1,9 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\LAPAXSIS-36\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\LAPAXSIS-36\\.nuget\\packages",
-      "C:\\Microsoft\\Xamarin\\NuGet"
-    ]
-  }
-}
