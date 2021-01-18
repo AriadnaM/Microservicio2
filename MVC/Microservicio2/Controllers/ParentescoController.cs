@@ -1,5 +1,4 @@
-﻿using Microservicio2.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,24 +6,24 @@ using System.Threading.Tasks;
 
 namespace Microservicio2.Controllers
 {
-    public class PersonaController:Controller
+    public class ParentescoController: Controller
     {
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult CreatePersona(PersonaModel persona)
+        public IActionResult CreateParentesco()
         {
             return View();
         }
 
-        public IActionResult DetailPersona()
+        public IActionResult DetailParentesco()
         {
             return View();
         }
 
-        public IActionResult deletePersona()
+        public IActionResult DeleteParentesco()
         {
             return View();
         }
