@@ -1,5 +1,6 @@
 ﻿using Microservicio1Api.App_Data;
 using Microservicio2.DAL;
+using Microservicio2.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -13,15 +14,34 @@ namespace Microservicio2.Controllers
     public class PersonaController:Controller
     {
         IPersonaRepository personaRepository;
-        PersonaController()
+        public PersonaController()
         {
             personaRepository = new PersonaRepository(new Context());
         }
 
         [HttpGet]
-        public ActionResult Index()
+        public IEnumerable<PersonaModel> Index()
         {
-            return View(personaRepository.GetPersonas());
+            return personaRepository.GetPersonas().ToArray();
+        }
+
+        [HttpGet("{id}")]
+        public PersonaModel Detail(int id)
+        {
+            return personaRepository.GetPersonaModelById(id);
+        }
+
+        [HttpPut("{id}")]
+        public void Delete(int id)
+        {
+            personaRepository.DeletePersona(id);
+        }
+
+        [HttpPost]
+        public PersonaModel Create(PersonaModel persona)
+        {
+            personaRepository.InsertPersona(persona);
+            return persona;
         }
     }
 }

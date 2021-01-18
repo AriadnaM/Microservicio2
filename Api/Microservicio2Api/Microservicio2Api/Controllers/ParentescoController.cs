@@ -25,12 +25,13 @@ namespace Microservicio2Api.Controllers
             return parentescoRepository.GetParentescos().ToArray();
         }
 
-        [HttpGet]
+        [HttpGet("{id}")]
         public ParentescoModel Detail(int id)
         {
             return parentescoRepository.GetParentescoModelById(id);
         }
 
+        [HttpPut("{id}")]
         public void Delete(int id)
         {
             parentescoRepository.DeleteParentesco(id);

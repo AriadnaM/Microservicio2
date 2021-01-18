@@ -67,3 +67,4 @@ C:\Users\LAPAXSIS-36\source\repos\Microservicio1Api\Microservicio1Api\obj\Debug\
 C:\Users\LAPAXSIS-36\source\repos\Microservicio1Api\Microservicio1Api\obj\Debug\netcoreapp3.1\Microservicio1Api.dll
 C:\Users\LAPAXSIS-36\source\repos\Microservicio1Api\Microservicio1Api\obj\Debug\netcoreapp3.1\Microservicio1Api.pdb
 C:\Users\LAPAXSIS-36\source\repos\Microservicio1Api\Microservicio1Api\obj\Debug\netcoreapp3.1\Microservicio1Api.genruntimeconfig.cache
+C:\Users\LAPAXSIS-36\source\repos\Microservicio1Api\Microservicio1Api\obj\Debug\netcoreapp3.1\Microservicio1Api.csprojAssemblyReference.cache

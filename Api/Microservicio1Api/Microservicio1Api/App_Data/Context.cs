@@ -12,7 +12,7 @@ namespace Microservicio1Api.App_Data
         public DbSet<PersonaModel> PersonaModel { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=LAPXAMOYA\\MSSQLSERVER;Database=Persona;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer(@"Server=LAPXAMOYA\SQLEXPRESS;Database=Persona;Trusted_Connection=True;");
         }
     }
 }

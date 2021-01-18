@@ -35,10 +35,10 @@ namespace Microservicio2.Controllers
             return persona;
         }
 
-        public async Task<IActionResult> DetailPersona()
+        public async Task<IActionResult> DetailPersona(int personaId)
         {
             PersonaModel persona = null;
-            HttpResponseMessage response = await client.GetAsync("https://localhost:44321/persona/Detail/1");
+            HttpResponseMessage response = await client.GetAsync("https://localhost:44321/persona/Detail{"+personaId+"}");
             if (response.IsSuccessStatusCode)
             {
                 persona = await response.Content.ReadAsAsync<PersonaModel>();
@@ -49,6 +49,20 @@ namespace Microservicio2.Controllers
         public IActionResult deletePersona()
         {
             return View();
+        }
+
+        public async Task<PersonaModel> ConfirmDeletePersona(int personaId)
+        {
+            client.BaseAddress = new Uri("https://localhost:44321/");
+            client.DefaultRequestHeaders.Accept.Clear();
+            client.DefaultRequestHeaders.Accept.Add(
+                new MediaTypeWithQualityHeaderValue("application/json"));
+            HttpResponseMessage response = await client.PutAsJsonAsync(
+            $"persona/Delete{personaId}", personaId);
+            response.EnsureSuccessStatusCode();
+
+            await response.Content.ReadAsAsync<PersonaModel>();
+            return null;
         }
     }
 }
